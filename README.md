@@ -1,6 +1,6 @@
 ### console.log("Olá") 👋
 
-![image info](./images/image.png)
+![image info](./images/1.png)
 
 <!--
 **LorrayneCarvalho/LorrayneCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
