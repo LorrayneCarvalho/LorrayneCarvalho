@@ -20,8 +20,8 @@
 
 *Começar é o primeiro passo, não desistir é o segundo* :bulb:
 
-
-# SEJA BEM VINDO(A), :wave: :punch:
+<div align='right' 
+# SEJA BEM VINDO(A), :wave: :punch:></p>
 
 
 
