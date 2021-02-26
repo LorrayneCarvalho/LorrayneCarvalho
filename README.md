@@ -22,7 +22,7 @@
 
 
 <div>
-<p style="text-align: center;">######SEJA BEM VINDO(A), :wave: :punch:</p>
+  <p style="text-align: center;">SEJA BEM VINDO(A), :wave: :punch:</p>
 </div>
 
 
