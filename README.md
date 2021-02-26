@@ -10,16 +10,18 @@
 
 
 
-    :mortar_board: - Formada em Sistemas de Informação;
-    :office: - Possuo 4 anos de experiência com monitoria de qualidade no Atendimento ao Cliente. 
-    :office: - O sonho de trabalhar com desenvolvimento me fez buscar por uma transição de carreira e atualmente sou desenvolvedora :hearts: em uma empresa que possui uma plataforma com conteúdos voltados para um público em especifico.
-    
-    : - Amo pets, tenho um cat - :cat: O Théo e um dog - :dog: O Toy ;
-    : - :notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
-    : - Apaixonada por futebol e Rubro Negra :hearts: :black_heart:
+:mortar_board: - Formada em Sistemas de Informação;
+:office: - Possuo 4 anos de experiência com monitoria de qualidade no Atendimento ao Cliente. 
+:office: - O sonho de trabalhar com desenvolvimento me fez buscar por uma transição de carreira e atualmente sou desenvolvedora :hearts: em uma empresa que possui uma plataforma com conteúdos voltados para um público em especifico.
+
+Amo pets, tenho um cat - :cat: O Théo e um dog - :dog: O Toy ;
+notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
+Apaixonada por futebol e Rubro Negra :hearts: :black_heart:
 
 
-:mortar_board:
+
+
+
 <!--
 **LorrayneCarvalho/LorrayneCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
