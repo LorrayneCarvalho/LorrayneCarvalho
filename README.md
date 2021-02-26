@@ -18,7 +18,8 @@
 * **Estou em um processo de aprendizado constante.**
 
 
-*Começar é o primeiro passo, não desistir é o segundo* :bulb:
+
+<p align='right'>*Começar é o primeiro passo, não desistir é o segundo* :bulb:</p>
 
 
 
