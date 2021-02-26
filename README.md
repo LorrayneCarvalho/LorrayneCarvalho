@@ -1,4 +1,4 @@
-### console.log("Olá") 👋
+# console.log("OLÁ, SEJA BEM VINDO(A), :wave: :punch:") 
 
 ![image info](./images/1.png)
 
@@ -19,9 +19,6 @@
 
 
 *Começar é o primeiro passo, não desistir é o segundo* :bulb:
-
-<div align='right' 
-# SEJA BEM VINDO(A), :wave: :punch:></p>
 
 
 
