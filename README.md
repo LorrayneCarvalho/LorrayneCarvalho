@@ -21,12 +21,7 @@
 *Começar é o primeiro passo, não desistir é o segundo* :bulb:
 
 
-
-<p align='center'> 
-  # SEJA BEM VINDO(A), :wave: :punch:
-</p>
-
-# oi 
+# SEJA BEM VINDO(A), :wave: :punch:
 
 
 
