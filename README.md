@@ -19,7 +19,7 @@
 
 
 
-<p align='right'>*Começar é o primeiro passo, não desistir é o segundo* :bulb:</p>
+<p align='center'>Começar é o primeiro passo, não desistir é o segundo :bulb:</p>
 
 
 
