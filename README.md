@@ -14,7 +14,7 @@
 * :office: Possuo 4 anos de experiência com monitoria de qualidade no Atendimento ao Cliente. 
 * :office: O sonho de trabalhar com desenvolvimento me fez buscar por uma transição de carreira e atualmente sou desenvolvedora :hearts: em uma empresa que possui uma plataforma com conteúdos voltados para um público em especifico.
 
-* Amo pets, tenho um cat - :cat: O Théo e um dog - :dog: O Toy ;
+* :cat: Mãe do Théo;
 * :notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
 * Apaixonada por futebol e Rubro Negra :hearts: :black_heart:
 
