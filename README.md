@@ -20,7 +20,7 @@
 
 *Começar é o primeiro passo, não desistir é o segundo* :bulb:
 
-<center>###### SEJA BEM VINDO(A), :wave: :punch: </center>
+-> ###### SEJA BEM VINDO(A), :wave: :punch: <-
 
 
 
