@@ -25,6 +25,7 @@
   <p style="text-align: center;">SEJA BEM VINDO(A), :wave: :punch:</p>
 </div>
 
+<div style="text-align: right"> your-text-here </div>
 
 
 
