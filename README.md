@@ -8,6 +8,9 @@
 <br />
 <br />
 
+------------------------------------------------- -------------------------------------------------- -----------------------------
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCarvalho&hide=html&layout=compact&theme=buefy" />
 
 
 * :mortar_board: Formada em Sistemas de Informação;
