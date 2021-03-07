@@ -8,10 +8,9 @@
 <br />
 <br />
 
-------------------------------------------------- -------------------------------------------------- -----------------------------
-
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCarvalho&hide=html&layout=compact&theme=buefy" />
 
+<br>
 
 * :mortar_board: Formada em Sistemas de Informação;
 * :office: Possuo 4 anos de experiência com monitoria de qualidade no Atendimento ao Cliente. 
