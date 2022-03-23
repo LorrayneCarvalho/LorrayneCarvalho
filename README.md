@@ -13,7 +13,7 @@
 * :office: Possuo 4 anos de experiência com Monitoria de qualidade no Atendimento ao Cliente. 
 * :office: Atualmente atuando como Backend.
 
-* :cat: Mãe do Bisteca;
+* :cat: Mãe do Bisteca e da Gatita;
 * :notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
 * Apaixonada por futebol e Rubro Negra :hearts: :black_heart:;
 * **Estou em processo de aprendizagem constante.** <br /><br /><br />
