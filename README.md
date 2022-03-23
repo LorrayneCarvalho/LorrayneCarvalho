@@ -11,7 +11,7 @@
 
 * :mortar_board: Formada em Sistemas de Informação;
 * :office: Antes de trabalhar como dev, atuei como Monitora de Qualidade;
-* :office: Atualmente atuando como Backend.
+* :office: Backend Developer - JavaScript, TypeScript e NodeJs.
 
 * :cat: Mãe do Bisteca e da Gatita;
 * :notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
