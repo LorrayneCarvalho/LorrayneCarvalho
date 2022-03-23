@@ -10,7 +10,7 @@
 
 
 * :mortar_board: Formada em Sistemas de Informação;
-* :office: Possuo 4 anos de experiência com Monitoria de qualidade no Atendimento ao Cliente. 
+* :office: Antes de trabalhar como dev, atuei como Monitora de Qualidade;
 * :office: Atualmente atuando como Backend.
 
 * :cat: Mãe do Bisteca e da Gatita;
