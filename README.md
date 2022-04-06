@@ -8,9 +8,6 @@
 <br />
 <br />
 
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCarvalho&hide=html&layout=compact&theme=buefy" />  
-
 * :mortar_board: Formada em Sistemas de Informação;
 * :office: Antes de trabalhar como dev, atuei como Monitora de Qualidade;
 * :office: Backend Developer - JavaScript, TypeScript e NodeJs.
@@ -19,6 +16,11 @@
 * :notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
 * Apaixonada por futebol e Rubro Negra :hearts: :black_heart:;
 * **Estou em processo de aprendizagem constante.** <br /><br /><br />
+
+------------------------------------------------------------------------------------------------------------------------------
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCarvalho&hide=html&layout=compact&theme=buefy" />  
+
 
 
 
