@@ -8,7 +8,6 @@
 <br />
 <br />
 
-------------------------------------------------------------------------------------------------------------------------------
 
 * :mortar_board: Formada em Sistemas de Informação;
 * :office: Antes de trabalhar como dev, atuei como Monitora de Qualidade;
@@ -20,9 +19,9 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCarvalho&hide=html&layout=compact&theme=buefy" />  
-<br>
-<br>
+<p>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCarvalho&hide=html&layout=compact&theme=buefy" /> </p>
+
 
 
 
