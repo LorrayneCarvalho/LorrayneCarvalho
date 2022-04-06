@@ -8,10 +8,11 @@
 <br />
 <br />
 
+------------------------------------------------------------------------------------------------------------------------------
+
 * :mortar_board: Formada em Sistemas de Informação;
 * :office: Antes de trabalhar como dev, atuei como Monitora de Qualidade;
 * :office: Backend Developer - JavaScript, TypeScript e NodeJs.
-
 * :cat: Mãe do Bisteca e da Gatita;
 * :notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
 * Apaixonada por futebol e Rubro Negra :hearts: :black_heart:;
@@ -20,6 +21,8 @@
 ------------------------------------------------------------------------------------------------------------------------------
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCarvalho&hide=html&layout=compact&theme=buefy" />  
+<br>
+<br>
 
 
 
