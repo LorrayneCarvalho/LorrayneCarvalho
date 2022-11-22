@@ -6,10 +6,9 @@
 
 
 * :mortar_board: Formada em Sistemas de Informação;
-* :office: Antes de trabalhar como dev, atuei como Monitora de Qualidade;
+* :office: Software Developer na @IBM
 * :office: Backend Developer - JavaScript, TypeScript e NodeJs.
-* :cat: Mãe do Bisteca e da Gatita;
-* :notes: Música, :dancer: Dança e :lotus_position_woman: Yoga; 
+* :cat: Mãe da Gatita;; 
 * Apaixonada por futebol e Rubro Negra :hearts: :black_heart:;
 * **Estou em processo de aprendizagem constante.** <br /><br /><br />
 
