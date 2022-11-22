@@ -2,22 +2,10 @@
 
 ![image info](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image info](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image info](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image info](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![image info](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) 
 <br />
-<br />
 
-
-* :mortar_board: Formada em Sistemas de Informação;
 * :office: Software Developer na @IBM
-* :office: Backend Developer - JavaScript, TypeScript e NodeJs.
-* :cat: Mãe da Gatita;; 
-* Apaixonada por futebol e Rubro Negra :hearts: :black_heart:;
-* **Estou em processo de aprendizagem constante.** <br /><br /><br />
-
-
-
 
 <p align='center'>Começar é o primeiro passo, não desistir é o segundo :bulb:</p>
-
-
 
 <!--
 **LorrayneCarvalho/LorrayneCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
